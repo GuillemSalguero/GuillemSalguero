@@ -19,6 +19,10 @@ Guillem Salguero </b>
       <a href="tel:637667237">637 66 72 37</a>
  &bull;
 </p>
+
+<a href="https://github.com/GuillemSalguero"><img src="https://raw.githubusercontent.com/GuillemSalguero/GuillemSalguero/assert/logos/ig.png"></a>
+
+https://github.com/GuillemSalguero/GuillemSalguero/blob/main/assert/logos/ig.png
  
 Here are some ideas to get you started:
 
