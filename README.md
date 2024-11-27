@@ -20,7 +20,7 @@ Guillem Salguero </b>
  &bull;
 </p>
 
-<a href="https://github.com/GuillemSalguero"><img src="https://raw.githubusercontent.com/GuillemSalguero/GuillemSalguero/assert/logos/ig.png"></a>
+<a href="https://github.com/GuillemSalguero"><img src="https://raw.githubusercontent.com/GuillemSalguero/GuillemSalguero/main/assert/logos/ig.png"></a>
 
 https://github.com/GuillemSalguero/GuillemSalguero/blob/main/assert/logos/ig.png
  
