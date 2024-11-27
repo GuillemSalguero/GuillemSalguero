@@ -22,6 +22,7 @@ Guillem Salguero </b>
 <p>
   <a href="https://www.instagram.com/guillemsalguero/"><img loading="lazy" src="https://raw.githubusercontent.com/GuillemSalguero/GuillemSalguero/main/assert/logos/instagram.svg"></a>
   <a href="https://github.com/GuillemSalguero"><img loading="lazy" src="https://raw.githubusercontent.com/GuillemSalguero/GuillemSalguero/main/assert/logos/github.svg"></a>
+  <a href="https://linkedin.com/in/GuillemSalguero"><img loading="lazy" src="https://raw.githubusercontent.com/GuillemSalguero/GuillemSalguero/main/assert/logos/linkedin.svg"></a>
 </p>
 Here are some ideas to get you started:
 
