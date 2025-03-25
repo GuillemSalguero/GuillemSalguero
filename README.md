@@ -7,7 +7,7 @@ Durant aquests anys, he adquirit habilitats sòlides en programació i desenvolu
 
 Si voleu saber més sobre mi teniu a abaix del document alguns dels meus projectes, estaré encantat de parlar-ne i explorar possibles col·laboracions.
 
-Moltes gràcies per la vostra atenció,
+
 
 Cordialment,
 Guillem Salguero </b>
@@ -15,8 +15,7 @@ Guillem Salguero </b>
 
  &bull; 
       <a href="mailto:guillemsalguero@gmail.com">guillemsalguero@gmail.com</a>
- &bull;
-      <a href="tel:637667237">637 66 72 37</a>
+
  &bull;
 </p>
 <p>
